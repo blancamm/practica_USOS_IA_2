@@ -1,0 +1,210 @@
+{
+  "root": "Mapa mental - Lecture_4-diffusion-2022-2023_PN",
+  "topics": [
+    {
+      "title": "length / motion / random",
+      "keywords": [
+        "length",
+        "motion",
+        "random",
+        "walks",
+        "diffusion",
+        "runs"
+      ],
+      "size": 11,
+      "examples": [
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 5,
+          "snippet": "Molecular origin of Brownian motion from a macroscopic experiment"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 6,
+          "snippet": "Thermal velocity M TkV B3= Brownian motion"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 7,
+          "snippet": "1D Random walks"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 8,
+          "snippet": "Random walks"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 9,
+          "snippet": "Random walks and Polymers"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 10,
+          "snippet": "Diffusion"
+        }
+      ]
+    },
+    {
+      "title": "cell / transport / migration",
+      "keywords": [
+        "cell",
+        "transport",
+        "migration",
+        "motility",
+        "active",
+        "pierre"
+      ],
+      "size": 9,
+      "examples": [
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 0,
+          "snippet": "Pierre Nassoy Institut d’Optique Graduate School, Talence – UMR 5298, Laboratoire LP2N pierre.nassoy@institutoptique.fr Physics of Biological Systems"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 1,
+          "snippet": "protein organelle Animal cell 4 day-old human embryo Characteristic size Characteristic time 1 ms - 1s diffusion 1 min motility 1 day division Zebrafish larva Space and time scales"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 2,
+          "snippet": "➢ Diffusion – Brownian motion ➢ Active transport ➢ Cell motility Transport in biology"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 4,
+          "snippet": "Cell motility Migration of an amoeba (on a surface) Swiming of E.Coli bacteria (low mag) Q: Can we quantitatively characterize these movements?"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 14,
+          "snippet": "In 1 s, a protein or a small molecule \"visits\" a whole cell of 10µm in diameter. But, on neurons, long of several cm to 1m... Passive vs active transport"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 16,
+          "snippet": "Compartmentalization and active transport"
+        }
+      ]
+    },
+    {
+      "title": "cell / migration / cells",
+      "keywords": [
+        "cell",
+        "migration",
+        "cells",
+        "bacteria",
+        "swimming",
+        "persistence"
+      ],
+      "size": 8,
+      "examples": [
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 3,
+          "snippet": "van Leeuwenhoek's description of microbes in tooth plaque in a letter to Francois Aston in 1683 contains a drawing that shows the short rods of bacilli and bacteria, the spheres of micrococci, and the..."
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 17,
+          "snippet": "Bacteria swimming Total duration~30 s E.coli Jean Perrin, 1909 Grains de mastic (0,2 µm) 30 µm 30 s"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 31,
+          "snippet": "P=persistence time: Time before memory of initial direction is lost; S=speed of migration m =random motility coefficient Typical Cell Speeds and Persistence Times Cell Type P (min) S (µm/min) m (cm2/s..."
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 32,
+          "snippet": "0.01 0.1 1 10 100 1000 Vitesse µm/s SWIMMING Paramécie Bactérie C. Elegans Amibe Sperme de nématode Neutrophile Fibroblaste CRAWLING (Migration)Keratocyte"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 33,
+          "snippet": "Keratocyte"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 34,
+          "snippet": "Worm cell"
+        }
+      ]
+    },
+    {
+      "title": "rotation / coli / magnification",
+      "keywords": [
+        "rotation",
+        "coli",
+        "magnification",
+        "video",
+        "tumble",
+        "that"
+      ],
+      "size": 6,
+      "examples": [
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 19,
+          "snippet": "Low magnification video and trajectory tracking E.Coli swims straight in segments (“runs”), then undergoes a random tilt (“tumble”) that causes it to change direction"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 20,
+          "snippet": "High magnification video (and by fluorescence) Inversion de contraste During periods of “run”, the flagella form a bundle that has a helical rotation http://www.rowland.harvard.edu/labs/bacteria/index..."
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 21,
+          "snippet": "Evidence of flagellum rotation in E.coli"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 22,
+          "snippet": "Run and tumble Sequences ... controlled by the rotation of the motors"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 23,
+          "snippet": "Anatomy of the rotary engine Protons flux Rotation up to ~10 000 tours/min The bacterial flagellum (animation)"
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 25,
+          "snippet": "E.Coli in the presence of chemoattractant? More directed movement? YES! The time spent in the CCW (\"run\") state is longer"
+        }
+      ]
+    },
+    {
+      "title": "time / photobleaching / measurement",
+      "keywords": [
+        "time",
+        "photobleaching",
+        "measurement",
+        "diffusion",
+        "coefficients",
+        "method"
+      ],
+      "size": 3,
+      "examples": [
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 38,
+          "snippet": "0,8 0,85 0,9 0,95 1 1,05 -10 0 10 20 30 40 50 75 W 100 W 125 W 150 W Time (sec) 0.06 min-1 0.07 min-1 0.12 min-1 0.30 min-1 A fluorophore can perform a finite number of absorption/emission cycles, dep..."
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 39,
+          "snippet": "Measurement of diffusion coefficients Method 1: FRAP Fluorescence Recovery after photobleaching Temps Flash Fraction mobile Intensité émise temps de retour, t 0 Fi F 0 F  t =0 t < 0 t = 0 t = 1 min t..."
+        },
+        {
+          "source": "Lecture 4-diffusion-2022-2023_PN.pdf",
+          "page": 40,
+          "snippet": "Measurement of diffusion coefficients Method 2: Single particle tracking Latex (50 – 500 nm) Or colloidal Quantum Dots Résolution spatiale: contraste interférentiel, fluorescence Résolution temporelle..."
+        }
+      ]
+    }
+  ]
+}

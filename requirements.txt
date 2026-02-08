@@ -1,0 +1,11 @@
+pypdf
+langchain
+langchain-community
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+scikit-learn
+numpy
+transformers
+torch
+nltk
