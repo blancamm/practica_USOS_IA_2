@@ -10,6 +10,7 @@
 Python 3.10+
 
 ## Instalación
+Creación de un entorno para instalar los requerimientos, escribiendo en la terminal:
 pip install -r requirements.txt
 
 ## Uso
